@@ -1,8 +1,8 @@
 # Aslan Aliev
 
-### passionate fullstack developer
+**passionate fullstack developer**
 
-## Contacts
+## CONTACTS
 
 web-site: `ortsaslan.dev`
 email: `ortsaslan@gmail.com`
@@ -10,18 +10,18 @@ telegram: `t.me/ortsaslan`
 github: `github.com/ortsaslan`
 discord, twitter and all other platforms: one nickname to rule them all `ortsaslan`.
 
-## About me
+## ABOUT ME
 
 Confident and well-grounded software developer who make things done. Through training and practice I've gained expertise in fullstack development. My main stack include Angular on frontend, Spring on backend and PostgreSQL for data. I have all required expertise to deliver enterprise-grade web-applications and softskills to effectively communicate within my team.
 
-## Experience
+## EXPERIENCE
 
 - RS School
   7 months long intensive studing of frontend under supervision of mentors from well-known and globaly recognized software companies (like EPAM). A lot of frontend tasks and mini-projects. I delivered awesome final project with my team and received the complition certificate. One of the top ranked students on my course.
 
 - Personal projects
 
-## Skills
+## SKILLS
 
 My fullstack developer toolbelt are include:
 
@@ -34,7 +34,7 @@ My fullstack developer toolbelt are include:
 - OOP/REST/SOLID
 - CI/CD
 
-## Code example
+## CODE EXAMPLES
 
 My code in Python. For static code analyzer project. Can be found on my github account.
 
@@ -156,11 +156,11 @@ def main():
 main()
 ```
 
-## Education
+## EDUCATION
 
 I am graduated from College of Statistics, Informatics and Computers in Ufa, Russia. I held Associate degree in Accounting. Completed in 2007.
 
-## Languages
+## LANGUAGES
 
 - Russian (C2)
 - English (B1)
