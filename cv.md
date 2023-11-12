@@ -4,10 +4,10 @@
 
 ## CONTACTS
 
-web-site: `ortsaslan.dev`
-email: `ortsaslan@gmail.com`
-telegram: `t.me/ortsaslan`
-github: `github.com/ortsaslan`
+web-site: `ortsaslan.dev`  
+email: `ortsaslan@gmail.com`  
+telegram: `t.me/ortsaslan`  
+github: `github.com/ortsaslan`  
 discord, twitter and all other platforms: one nickname to rule them all `ortsaslan`.
 
 ## ABOUT ME
@@ -16,7 +16,7 @@ Confident and well-grounded software developer who make things done. Through tra
 
 ## EXPERIENCE
 
-- RS School
+- RS School\
   7 months long intensive studing of frontend under supervision of mentors from well-known and globaly recognized software companies (like EPAM). A lot of frontend tasks and mini-projects. I delivered awesome final project with my team and received the complition certificate. One of the top ranked students on my course.
 
 - Personal projects
