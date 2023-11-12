@@ -162,6 +162,6 @@ I am graduated from College of Statistics, Informatics and Computers in Ufa, Rus
 
 ## Languages
 
-- Russian
-- English
-- Arabic
+- Russian (C2)
+- English (B1)
+- Arabic (B1)
