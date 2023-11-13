@@ -1,1 +1,1 @@
-<https://ortsaslan.github.io/rsschool-cv/cv>
+<https://ortsaslan.github.io/rsschool-cv/>
