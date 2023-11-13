@@ -1,1 +1,1 @@
-# rsschool-cv
+<https://ortsaslan.github.io/rsschool-cv/>
